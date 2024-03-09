@@ -1,25 +1,25 @@
-code,title,parent
-00-0000,All Occupations,
-11-0000,Management Occupations,All Occupations
-13-0000,Business and Financial Operations Occupations,All Occupations
-15-0000,Computer and Mathematical Occupations,All Occupations
-17-0000,Architecture and Engineering Occupations,All Occupations
-19-0000,"Life, Physical, and Social Science Occupations",All Occupations
-21-0000,Community and Social Service Occupations,All Occupations
-23-0000,Legal Occupations,All Occupations
-25-0000,Educational Instruction and Library Occupations,All Occupations
-27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",All Occupations
-29-0000,Healthcare Practitioners and Technical Occupations,All Occupations
-31-0000,Healthcare Support Occupations,All Occupations
-33-0000,Protective Service Occupations,All Occupations
-35-0000,Food Preparation and Serving Related Occupations,All Occupations
-37-0000,Building and Grounds Cleaning and Maintenance Occupations,All Occupations
-39-0000,Personal Care and Service Occupations,All Occupations
-41-0000,Sales and Related Occupations,All Occupations
-43-0000,Office and Administrative Support Occupations,All Occupations
-45-0000,"Farming, Fishing, and Forestry Occupations",All Occupations
-47-0000,Construction and Extraction Occupations,All Occupations
-49-0000,"Installation, Maintenance, and Repair Occupations",All Occupations
-51-0000,Production Occupations,All Occupations
-53-0000,Transportation and Material Moving Occupations,All Occupations
-55-0000,Military Specific Occupations,All Occupations
+code,title,parent,size
+00-0000,All Occupations,,50
+11-0000,Management Occupations,All Occupations,50
+13-0000,Business and Financial Operations Occupations,All Occupations,50
+15-0000,Computer and Mathematical Occupations,All Occupations,50
+17-0000,Architecture and Engineering Occupations,All Occupations,50
+19-0000,"Life, Physical, and Social Science Occupations",All Occupations,50
+21-0000,Community and Social Service Occupations,All Occupations,50
+23-0000,Legal Occupations,All Occupations,50
+25-0000,Educational Instruction and Library Occupations,All Occupations,50
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",All Occupations,50
+29-0000,Healthcare Practitioners and Technical Occupations,All Occupations,50
+31-0000,Healthcare Support Occupations,All Occupations,50
+33-0000,Protective Service Occupations,All Occupations,50
+35-0000,Food Preparation and Serving Related Occupations,All Occupations,50
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,All Occupations,50
+39-0000,Personal Care and Service Occupations,All Occupations,50
+41-0000,Sales and Related Occupations,All Occupations,50
+43-0000,Office and Administrative Support Occupations,All Occupations,50
+45-0000,"Farming, Fishing, and Forestry Occupations",All Occupations,50
+47-0000,Construction and Extraction Occupations,All Occupations,50
+49-0000,"Installation, Maintenance, and Repair Occupations",All Occupations,50
+51-0000,Production Occupations,All Occupations,50
+53-0000,Transportation and Material Moving Occupations,All Occupations,50
+55-0000,Military Specific Occupations,All Occupations,50
