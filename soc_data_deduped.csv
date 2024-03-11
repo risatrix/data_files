@@ -1,5 +1,5 @@
 ,id,code,category,parent,value
-0,All Occupations,,,,59200
+0,All Occupations,,,,
 1,Management Occupations,11-0000,major,All Occupations,50
 2,Top Executives,11-1000,minor,Management Occupations,50
 3,Chief Executives,11-1010,broad,Top Executives,50
